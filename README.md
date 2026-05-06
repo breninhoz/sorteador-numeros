@@ -2,6 +2,7 @@
 
 <h2>:page_facing_up: Sobre</h2>
 <p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
+<p>Desafio - 1</p>
 
 ## :rocket: Tecnologias
 <div>
